@@ -27,20 +27,20 @@ Totally Responsive Design for mobile and desktop
 
  Technologies Used
 
-HTML5
+-HTML5
 
-CSS3 (Flexbox, Grid, Responsive Design)
+-CSS3 (Flexbox, Grid, Responsive Design)
 
-JavaScript (Vanilla JS)
+-JavaScript (Vanilla JS)
 
-Swiper.js – For sliders/carousels
+-Swiper.js – For sliders/carousels
 
-Remix Icons – For icons
+-Remix Icons – For icons
 
-ScrollReveal.js – For smooth animations
+-ScrollReveal.js – For smooth animations
 
 Structure of the Project
-Tour-and-Travel-Website/
+-Tour-and-Travel-Website/
 ├── index.html        # Main HTML file
 ├── style.css         # Stylesheet
 ├── script.js         # JavaScript functionality
