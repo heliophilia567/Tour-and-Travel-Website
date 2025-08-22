@@ -330,19 +330,22 @@
     </section>
 
     <section class="section__container subscribe__container" id="contact">
-      <h2 class="section__header">
-        “Stay Updated With Our Latest” <span>destination</span>
-      </h2>
-      <p class="section__description">
-        Stay updated with the latest travel deals, destination highlights, and
-        exclusive offers. Subscribe now and never miss out on exciting news and
-        updates about our services!
-      </p>
-      <form action="/">
-        <input type="text" placeholder="Your Email" />
-        <button class="btn">Submit</button>
-      </form>
-    </section>
+  <div class="subscribe__content">
+    <h2 class="section__header">“Stay Updated With Our Latest” destination</h2>
+    <p class="section__description">
+      
+    </p>
+    <form id="contactForm" class="contact-form">
+      <input type="text" placeholder="Full Name" required />
+      <input type="email" placeholder="Email" required />
+      <input type="tel" placeholder="Phone Number" required />
+      <button type="submit" class="btn">Send</button>
+    </form>
+    <p id="successMsg" style="display:none; color:green; margin-top:10px;">
+      ✅ Thanks for contacting us! We will get back to you soon.
+    </p>
+  </div>
+</section>
 
     <footer>
       <div class="section__container footer__container">
